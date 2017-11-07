@@ -1,2 +1,20 @@
 teladelogin
-linhacolocadanomaster
+linhacolocadanomaster linhacolocadanooutrobranc
+
+clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
