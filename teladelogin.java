@@ -1,8 +1,6 @@
 teladelogin
 linhacolocadanomaster linhacolocadanooutrobranc
 
-clear
-
 
 
 
